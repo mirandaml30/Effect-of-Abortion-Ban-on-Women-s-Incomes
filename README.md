@@ -1,2 +1,2 @@
 # Effect-of-Abortion-Ban-on-Women-s-Incomes
-Project exploring the effect of abortion restrictions on women's incomes
+Gathered and analyzed 2019–2024 CPS microdata to estimate the causal impact of post-Dobbs abortion bans on women’s wage income using a difference-in-differences model. Built a reproducible Python workflow for large-scale data cleaning, feature engineering, fixed-effects modeling, and trend validation. Findings suggest women in states with abortion bans experienced an estimated $1,178 lower income (relative to non-ban states), highlighting potential economic effects of reproductive policy changes.
